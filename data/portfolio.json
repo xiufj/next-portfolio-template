@@ -1,0 +1,154 @@
+{
+    "name": "Xiufj",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I am Xiu Fengjun",
+    "headerTaglineThree": "front-end developer",
+    "headerTaglineFour": " based in  Shandong China.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/xiufj"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/%E5%87%A4%E5%86%9B-%E4%BF%AE-1594a4306/"
+        },
+        {
+            "id": "3",
+            "title": "Twitter",
+            "link": "https://x.com/xiufj1"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "1303737846@qq.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Project One Test",
+            "description": "Web Design",
+            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "2",
+            "title": "Project Two",
+            "description": "Web Development",
+            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "3",
+            "title": "Project Three",
+            "description": "Design",
+            "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "4",
+            "title": "Project Four",
+            "description": "Marketing",
+            "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "5",
+            "title": "Project Five",
+            "description": "Development",
+            "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "6",
+            "title": "Project Six",
+            "description": "Design & Development",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Languages",
+            "description": "TypeScript、JavaScript、HTML、CSS、Less、Sass."
+        },
+        {
+            "id": "2",
+            "title": "Frameworks",
+            "description": "React、ReactNative、Redux、NextJS、Vue3/Vue2、Electron、Uniapp、Node.js、TailwindCSS、MicroApp."
+        },
+        {
+            "id": "3",
+            "title": "Tools",
+            "description": "Git、Vite、Pnpm、Vercel、Babel、Eslint、Prettier、Husky、Jenkins、Confluence、Postman."
+        },
+        {
+            "id": "4",
+            "title": "Web 3.0",
+            "description": "With 2 years of experience in web3 development, familiar with Solidity smart contract development and interacting with Ethereum blockchain using Web3. js. I have a deep understanding of the design and development of decentralized applications (DApps) and am committed to using blockchain technology to solve practical problems.."
+        }
+    ],
+    "aboutpara": "I have worked in professional web development since 2016, and specialize in front end technologies like React. I strive to build beautiful, accessible, functional, and performant applications that make the web a friendly and enjoyable experience for everyone.",
+    "resume": {
+        "tagline": "👋  I have worked in professional web development since 2016, and specialize in front end technologies like React. I strive to build beautiful, accessible, functional, and performant applications that make the web a friendly and enjoyable experience for everyone.",
+        "description": "Well-versed with Vue、React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "January 2021 - Present",
+                "type": "Full Time",
+                "position": "Frontend Leaders",
+                "bullets": "Unify design specifications with the UI side. develop and design enterprise atomic component libraries tj-design-vue. business component libraries. and icon libraries. Output unified template projects at all ends (PC end、 mobile end、 base sub application、 etc.) to reduce repetitive code and improve development efficiency, Developing and promoting effective implementation of development standards (PR、Code Cloud Quality Access Control、 Review、etc.). utilizing code editor plugins to enforce member code style standards. unifying code development standards. greatly improving code readability. maintainability. and maintenance efficiency, Continuously learning and evaluating emerging front-end technologies and tools. Drive the team to adopt best practices and new technologies to improve development efficiency and product quality"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "November 2016 - January 2021",
+                "type": "Full Time",
+                "position": "Frontend Engineer",
+                "bullets": "Responsible for building the overall architecture of the project. including but not limited to technology selection. module division. and system design. to ensure the scalability and maintainability of the project,Encapsulated components. created a series of highly reusable front-end components. improved development efficiency. and ensured user interface consistency and response speed"
+            }
+        ],
+        "education": {
+            "universityName": "University X",
+            "universityDate": "2016-2020",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "TypeScript",
+            "JavaScript",
+            "CSS/Less"
+        ],
+        "frameworks": [
+            "React",
+            "ReactNative",
+            "NodeJs",
+            "NextJS",
+            "Vue3/Vue2",
+            "Electron",
+            "TailwindCSS",
+            "MicroApp",
+            "Uniapp"
+        ],
+        "tools": [
+            "Git",
+            "Vite",
+            "Pnpm",
+            "Vercel",
+            "Babel",
+            "Eslint",
+            "Prettier",
+            "Jenkins",
+            "Confluence",
+            "Figma",
+            "Postman"
+        ]
+    }
+}
