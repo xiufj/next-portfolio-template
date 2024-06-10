@@ -109,11 +109,11 @@ const Resume = () => {
                     </div>
                   )}
 
-                  {resume.others && (
+                  {resume.tools && (
                     <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Others</h2>
+                      <h2 className="text-lg">Tools</h2>
                       <ul className="list-disc">
-                        {resume.others.map((other, index) => (
+                        {resume.tools.map((other, index) => (
                           <li key={index} className="ml-5 py-2">
                             {other}
                           </li>

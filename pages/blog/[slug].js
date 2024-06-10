@@ -44,7 +44,7 @@ const BlogPost = ({ post }) => {
           ></img>
           <h1
             ref={textOne}
-            className="mt-10 text-4xl mob:text-2xl laptop:text-6xl text-bold"
+            className="mt-10 text-4xl mob:text-2xl laptop:text-6xl font-bold"
           >
             {post.title}
           </h1>

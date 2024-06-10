@@ -76,7 +76,7 @@ const Blog = ({ posts }) => {
           <div className="mt-10">
             <h1
               ref={text}
-              className="mx-auto mob:p-2 text-bold text-6xl laptop:text-8xl w-full"
+              className="mx-auto mob:p-2 font-bold text-6xl laptop:text-8xl w-full"
             >
               Blog.
             </h1>

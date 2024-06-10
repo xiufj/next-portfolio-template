@@ -33,3 +33,7 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - Clone this repo
 - run `yarn`
 - `yarn dev`
+
+### Deploy Server to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/username/repository)
